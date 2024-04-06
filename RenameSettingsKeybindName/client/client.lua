@@ -1,3 +1,3 @@
 Citizen.CreateThread(function()
-	AddTextEntry('PM_PANE_CFX', 'Server Name')
+	AddTextEntry('PM_PANE_CFX', 'BorisCore')
 end)
